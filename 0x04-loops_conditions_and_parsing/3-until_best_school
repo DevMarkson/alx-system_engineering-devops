@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Best School" 10 times
+# This script is displaying "Best School" 10 times.
 count=1
 countl=10
 until [ $countl -lt $count ]; do
